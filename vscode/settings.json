@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "GitHub Dark",
+    "editor.fontFamily": "Fira Code, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "editor.minimap.autohide": true,
+    "emmet.triggerExpansionOnTab": true,
+    "gitlens.defaultDateLocale": "en-IL",
+    "gitlens.defaultTimeFormat": null,
+    "gitlens.defaultDateShortFormat": "DD/MM/YYYY",
+    "gitlens.defaultDateFormat": "DD MMM YYYY, HH:mm",
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.compactFolders": false,
+    "svg.preview.transparencyGrid": true,
+    "svg.preview.boundingBox": false,
+    "workbench.sideBar.location": "right",
+    "diffEditor.renderSideBySide": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "javascript.suggest.names": false, // disabled abc suggestions (console.log)
+    "editor.rulers": [{
+        "column": 150,
+        "color": "#64fffa"
+    }]
+}
