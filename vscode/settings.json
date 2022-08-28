@@ -21,5 +21,9 @@
     "editor.rulers": [{
         "column": 150,
         "color": "#64fffa"
-    }]
+    }],
+    "material-icon-theme.files.associations": {
+        "*.e2e.js": "Test-js",
+    },
+    "editor.guides.bracketPairs": "active"
 }
