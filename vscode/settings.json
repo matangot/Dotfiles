@@ -25,5 +25,7 @@
     "material-icon-theme.files.associations": {
         "*.e2e.js": "Test-js",
     },
-    "editor.guides.bracketPairs": "active"
+    "editor.guides.bracketPairs": "active",
+    "debug.javascript.autoAttachFilter": "smart",
+    "editor.tabSize": 2, 
 }
